@@ -1,0 +1,1 @@
+These are the footer section jsx and css files
